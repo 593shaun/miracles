@@ -1,0 +1,21 @@
+[
+{
+  "modid"        : "LMM",
+  "name"         : "Let's Mod Mod",
+  "description"  : "Let's mod with Pahimar!",
+  "version"      : "0.0.1",
+  "url"          : "www.github.com/pahimar/LetsMod",
+  "updateUrl"    : "",
+  "authorList"   : [
+    "pahimar"
+    "593shaun"
+  ],
+  "credits"      : "All of you lovely modders out there!",
+  "logoFile"     : "",
+  "screenshots"  : [
+  ],
+  "parent"       : "",
+  "dependencies" : [
+  ]
+}
+]
